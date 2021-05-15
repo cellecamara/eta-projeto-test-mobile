@@ -1,2 +1,3 @@
 # eta-projeto-test-mobile
-Projeto final da disciplina de automação mobile
+Final project from discipline automation test mobile
+ETA-2020.1 - CESAR School
